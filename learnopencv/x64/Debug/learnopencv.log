@@ -1,0 +1,17 @@
+﻿  learnopencv.cpp
+D:\opencv\learnopencv\learnopencv\learnopencv.cpp(36,23): warning C4305: “初始化”: 从“double”到“float”截断
+D:\opencv\learnopencv\learnopencv\learnopencv.cpp(54,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\opencv\learnopencv\learnopencv\learnopencv.cpp(66,29): warning C4305: “*=”: 从“double”到“_Tp”截断
+          with
+          [
+              _Tp=float
+          ]
+D:\opencv\learnopencv\learnopencv\learnopencv.cpp(67,29): warning C4305: “*=”: 从“double”到“_Tp”截断
+          with
+          [
+              _Tp=float
+          ]
+D:\opencv\learnopencv\learnopencv\learnopencv.cpp(186,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\opencv\learnopencv\learnopencv\learnopencv.cpp(78,18): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\opencv\learnopencv\learnopencv\learnopencv.cpp(111,17): message : 查看对正在编译的函数 模板 实例化“float distance<float>(const cv::Point_<float> &,const cv::Point_<float> &)”的引用
+  learnopencv.vcxproj -> D:\opencv\learnopencv\x64\Debug\learnopencv.exe
